@@ -12,4 +12,5 @@ for letter in word:
         v = v + 1
 
 print("Vowels =", v)
-print("Consonants =", len(word) - v)```
+print("Consonants =", len(word) - v)
+```
